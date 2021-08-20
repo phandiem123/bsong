@@ -1,2 +1,2 @@
-# bsong
-Quản lý bài hat
+# BSONG
+Project BSONG: Web nghe nhạc
